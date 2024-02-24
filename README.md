@@ -9,7 +9,7 @@ Users can interact with the cards and increases the readability of the info they
 
 #### Get all items
 
-```http
+```bash
   GET https://api.fake-rest.refine.dev/users
 ```
 
