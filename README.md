@@ -10,7 +10,7 @@ Users can interact with the cards and increases the readability of the info they
 #### Get all items
 
 ```http
-  https://api.fake-rest.refine.dev/users
+  GET https://api.fake-rest.refine.dev/users
 ```
 
 #### Fetch API :  fetch("https://api.fake-rest.refine.dev/users")
